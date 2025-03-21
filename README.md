@@ -1,2 +1,2 @@
 # joyard-kee
-student in bjtu 
+student in bupt
